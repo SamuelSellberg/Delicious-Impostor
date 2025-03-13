@@ -28,3 +28,16 @@
     color: #fff;
     filter: drop-shadow( 0px 2px 2px #0007)
 }
+
+.DI_socialButtonText {
+    font-family: Garamond, Georgia, "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #53994ebb;
+}
+
+.DI_socialIconGlow {
+    filter: drop-shadow( 0px 0px 10px #f8d8bf)
+}
